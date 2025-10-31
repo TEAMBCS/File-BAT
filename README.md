@@ -45,8 +45,8 @@ pkg install p7zip -y
 termux-setup-storage -y
 git clone https://github.com/TEAMBCS/File-BAT.git
 cd File-BAT
+chmod 777 *
 chmod +x *
-chmod 777*
 pip install -r file-bat.txt
 python3 file-bat.py
 ```
@@ -59,9 +59,9 @@ sudo apt install python3 python3-pip unrar p7zip-full
 pip3 install rich rarfile
 git clone https://github.com/TEAMBCS/File-BAT.git
 cd File-BAT
+chmod 777 *
 chmod +x *
-chmod 777*
-pip install -r file-bat.txt
+pip3 install -r file-bat.txt
 python3 file-bat.py
 ```
 
