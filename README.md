@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/Sx9vnKfs/file-bat.png" width="600"/>
+  <img src="https://i.postimg.cc/Sx9vnKfs/file-bat.png" width="400"/>
 </p>
 
 <h1 align="center"> FILE BAT </h1>
@@ -12,7 +12,7 @@
 
 ---
 
-# 🦇 FILE BAT
+## 🦇 FILE BAT
 
 A fast, clean and powerful archive password‑cracking tool for **ZIP, RAR, 7Z** and more — built for Termux and Linux.
 
