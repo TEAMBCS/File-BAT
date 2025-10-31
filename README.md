@@ -1,3 +1,17 @@
+
+<p align="center">
+  <img src="https://i.postimg.cc/Sx9vnKfs/file-bat.png" width="600"/>
+</p>
+
+<h1 align="center"> FILE BAT </h1>
+
+<p align="center">
+  🚀 Powered by <b> BANGLADESH CYBER SQUAD</b><br>
+  📆 Year: 2025
+</p>
+
+---
+
 # 🦇 FILE BAT
 
 A fast, clean and powerful archive password‑cracking tool for **ZIP, RAR, 7Z** and more — built for Termux and Linux.
