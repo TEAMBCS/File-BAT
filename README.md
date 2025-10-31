@@ -40,17 +40,30 @@ FILE BAT focuses on speed, stability and a smooth, hacker‑style terminal exper
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install python -y
+pkg install git -y
 pkg install unrar -y
 pkg install p7zip -y
-pip install rich rarfile
+termux-setup-storage -y
+git clone https://github.com/TEAMBCS/File-BAT.git
+cd File-BAT
+chmod +x *
+chmod 777*
+pip install -r file-bat.txt
+python3 file-bat.py
 ```
 
-### Linux (Ubuntu/Debian)
+### Linux (Ubuntu/Debian/Kali)
 
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip unrar p7zip-full
 pip3 install rich rarfile
+git clone https://github.com/TEAMBCS/File-BAT.git
+cd File-BAT
+chmod +x *
+chmod 777*
+pip install -r file-bat.txt
+python3 file-bat.py
 ```
 
 ---
@@ -58,7 +71,7 @@ pip3 install rich rarfile
 ## ▶️ How to Run
 
 ```bash
-python file-bat.py
+python3 file-bat.py
 ```
 
 Follow the on‑screen steps:
