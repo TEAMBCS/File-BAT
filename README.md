@@ -109,13 +109,16 @@ FILE BAT auto‑detects archive type and uses the best method.
 
 
 ---
+
 ## 🖼️ DEMO PIC
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/File-BAT/main/Image/file-bat-img1.png" alt="pic" width="45%" />
+  <img src="https://raw.githubusercontent.com/TEAMBCS/File-BAT/main/Image/file-bat-img1.jpg" alt="pic" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/TEAMBCS/File-BAT/main/Image/file-bat-img2.png" alt="pic1" width="45%" />
+  <img src="https://raw.githubusercontent.com/TEAMBCS/File-BAT/main/Image/file-bat-img2.jpg" alt="pic1" width="45%" />
 </p>
+
 ---
+
 ## ⚠️ Disclaimer
 
 FILE BAT is for **educational use** and **authorized security testing only**.
