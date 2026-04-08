@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/Sx9vnKfs/file-bat.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/TEAMBCS/File-BAT/main/Image/file-bat-logo.png" width="400"/>
 </p>
 <h1 align="center"> FILE BAT </h1>
 <p align="center">
@@ -111,9 +111,9 @@ FILE BAT auto‑detects archive type and uses the best method.
 ---
 ## 🖼️ DEMO PIC
 <p align="center">
-  <img src="https://i.postimg.cc/wBDfxTdx/file-bat-demo1.jpg" alt="pic" width="45%" />
+  <img src="https://raw.githubusercontent.com/TEAMBCS/File-BAT/main/Image/file-bat-img1.png" alt="pic" width="45%" />
   &nbsp;&nbsp;
-  <img src="https://i.postimg.cc/MH3t3n1N/file-bat-demo2.jpg" alt="pic1" width="45%" />
+  <img src="https://raw.githubusercontent.com/TEAMBCS/File-BAT/main/Image/file-bat-img2.png" alt="pic1" width="45%" />
 </p>
 ---
 ## ⚠️ Disclaimer
